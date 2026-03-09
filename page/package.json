@@ -7,7 +7,7 @@
 	"dependencies": {
 		"@acryps/page": "^1.2.0",
 		"@acryps/page-default-directives": "^1.0.3",
-		"@acryps/style": "^0.10.0"
+		"@acryps/style": "^0.26.0"
 	},
 	"devDependencies": {
 		"@acryps/esbuild-page": "^0.0.1",
